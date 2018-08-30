@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\obj\Debug\aula-11-orientacao-a-objetos-construtores.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\obj\Debug\aula-11-orientacao-a-objetos-construtores.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\bin\Debug\aula-11-orientacao-a-objetos-construtores.exe.config
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\bin\Debug\aula-11-orientacao-a-objetos-construtores.exe
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\bin\Debug\aula-11-orientacao-a-objetos-construtores.pdb
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\obj\Debug\aula-11-orientacao-a-objetos-construtores.exe
+C:\Users\nicol\source\repos\aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores\obj\Debug\aula-11-orientacao-a-objetos-construtores.pdb

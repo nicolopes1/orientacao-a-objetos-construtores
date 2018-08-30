@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula-11-orientacao-a-objetos-construtores", "aula-11-orientacao-a-objetos-construtores\aula-11-orientacao-a-objetos-construtores.csproj", "{243AD414-FF09-4C2F-8F4A-5F8761B3D16C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243AD414-FF09-4C2F-8F4A-5F8761B3D16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243AD414-FF09-4C2F-8F4A-5F8761B3D16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243AD414-FF09-4C2F-8F4A-5F8761B3D16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243AD414-FF09-4C2F-8F4A-5F8761B3D16C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6289BE6-231F-49EA-A992-175148278ABF}
+	EndGlobalSection
+EndGlobal
